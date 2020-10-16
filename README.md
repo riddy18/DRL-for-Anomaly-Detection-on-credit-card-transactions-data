@@ -1,17 +1,20 @@
 # DRL-for-Anomaly-Detection-on-credit-card-transactions-data
 
-Overall project goal
+Overall project goal:
+
 We investigate the application of Deep Reinforcement Learning to Anomaly Detection in credit
 card transactions data. Our goal is the use of Q-learning, a Deep Reinforcement Learning
 technique to determine fraudulent credit card transactions.
 
-Problem Description
+Problem Description:
+
 Anomaly detection is the process of identifying unusual patterns that do not conform to
 expected normal behavior. Its applications are found in intrusion detection, system health
 monitoring, and fraud detection in credit card transactions. We would review Q-learning [1] and
 support vector machine algorithms [2] literature.
 
-Data
+Data:
+
 We adopt this kaggle dataset [3] to train and evaluate our models. It contains transactions made
 by credit cards in September 2013 by Europeans. This dataset presents transactions that
 occurred in two days, where we have 492 frauds out of 284,807 transactions.
