@@ -26,7 +26,8 @@ implementations of this algorithm in other domains.
 
 Baselines:
 We compare our model to a basic support vector machines (SVM) model that we will design.
-Evaluation
+
+Evaluation:
 We plan to primarily use the Area Under the Precision-Recall Curve (AUPRC) and F1 score to
 measure how good our algorithm is . We anticipate we have to reconcile the cumulative regret used
 to evaluate the Q-learning algorithm with SVM classification accuracy.
